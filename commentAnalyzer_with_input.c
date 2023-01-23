@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<string.h>
 #include<stdbool.h>
-#include<ctype.h>
+#include<ctype.h> 
 
 void commentAnalyzer(char* string);     // input string থেকে comment analyze করে
 

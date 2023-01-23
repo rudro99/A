@@ -15,7 +15,7 @@ int main()
         scanf("%c", &string[x]);
         c = string[x];
         x++;
-    }
+    } 
     string[x-1] = '\0';
 
     printf("\n\n\nString Literal:\n\n");

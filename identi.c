@@ -1,7 +1,7 @@
 #include <string.h>
 #include <stdio.h>
 #include <ctype.h>
-#include<stdbool.h>
+#include<stdbool.h> 
 bool isKeyword(char* str)
 {
     if (!strcmp(str, "auto") || !strcmp(str, "default")

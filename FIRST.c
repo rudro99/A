@@ -5,7 +5,7 @@ T=FC
 C=*FC
 C=$
 F=(E)
-F=i*/
+F=i*/ 
 #include<stdio.h>
 #include<ctype.h>
 

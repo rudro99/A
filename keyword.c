@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-#include<stdbool.h>
+#include<stdbool.h> 
 
 bool isKeyword(char* str){
     if (!strcmp(str, "auto") || !strcmp(str, "default")

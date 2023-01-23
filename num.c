@@ -16,7 +16,7 @@ int main ()
     while( token != NULL )
     {
 
-        n=strlen(token);
+        n=strlen(token); 
         int cont=0;
         for(i=0; i<n; i++)
         {

@@ -3,7 +3,7 @@
 #include<stdbool.h>
 #include<ctype.h>
 
-
+ 
 int main()
 {
     char string[5000], c = ' ';         // c empty হিসেবে initialize করা

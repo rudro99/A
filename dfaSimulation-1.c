@@ -6,7 +6,7 @@ The DFA is:
     start State,S=1;
     Final state,F=3;
     Input Symbols={a,b};
-Transitions Are:
+Transitions Are: 
     T( 1,a)=1;  T(1,b)=2;   T(2,a)=1;  T(2,b)=3;   T(3,a)=1;  T(3,b)=3;
 
 */

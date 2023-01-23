@@ -13,7 +13,7 @@ int main()
     TAC(input);
 
     return 0;
-}
+} 
 
 void TAC(char s[])
 {
